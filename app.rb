@@ -12,6 +12,7 @@ class Thermostat < Sinatra::Base
   # :nocov:
 
   get "/temperature" do
+    puts session[:temperature]
     content_type :json
     return {temperature: session[:temperature]}.to_json
   end

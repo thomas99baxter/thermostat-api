@@ -16,4 +16,6 @@ gem "webrick", "~> 1.7"
 
 gem "sinatra", "~> 2.1"
 
+gem "sinatra-contrib"
+
 gem "rake", "~> 13.0"
