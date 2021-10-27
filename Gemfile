@@ -15,3 +15,5 @@ gem "rubocop", "~> 1.22"
 gem "webrick", "~> 1.7"
 
 gem "sinatra", "~> 2.1"
+
+gem "rake", "~> 13.0"
