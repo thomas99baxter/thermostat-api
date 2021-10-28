@@ -19,3 +19,5 @@ gem "sinatra", "~> 2.1"
 gem "sinatra-contrib"
 
 gem "rake", "~> 13.0"
+
+gem "sinatra-cors", "~> 1.2"
